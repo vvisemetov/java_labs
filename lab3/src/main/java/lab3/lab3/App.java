@@ -1,5 +1,3 @@
-package LR3_ImageScaler.LR3_ImageScaler;
-
 import java.awt.Graphics2D;
 import java.awt.image.BufferedImage;
 

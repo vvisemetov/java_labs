@@ -1,4 +1,4 @@
-package LR3_ImageScaler.LR3_ImageScaler;
+
 
 import junit.framework.Test;
 import junit.framework.TestCase;
