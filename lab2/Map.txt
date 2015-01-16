@@ -1,0 +1,8 @@
+1 one
+2 two
+3 three
+4 four
+5 five
+7 seven
+16 sixteen
+24 twenty_four
