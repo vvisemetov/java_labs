@@ -1,4 +1,4 @@
-package lr5_servlet;
+package lab5_servlet;
 
 import org.eclipse.jetty.server.Server;
 import org.eclipse.jetty.server.ServerConnector;
